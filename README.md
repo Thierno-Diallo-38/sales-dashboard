@@ -74,17 +74,18 @@ The goal was to provide actionable insights for decision-making using clean and 
 ---
 
 ## Visualizations
-### **1. Monthly Sales Trends**
-![Monthly Sales Trends](images/monthly_sales_trend.png)
 
-### **2. Sales by Region**
-![Sales by Region](images/sales_by_region.png)
+### 1. Monthly Sales Trends
+![Monthly Sales Trends](images/Monthly%20Sales.png)
 
-### **3. Sales by Product**
-![Sales by Product](images/sales_by_product.png)
+### 2. Sales by Region
+![Sales by Region](images/Total%20Sales%20by%20Region.png)
 
-### **4. Dashboard Overview**
-![Sales Dashboard Overview](images/sales_dashboard_overview.png)
+### 3. Sales by Product
+![Sales by Product](images/Sales%20by%20Product.png)
+
+### 4. Sales by Category
+![Sales by Category](images/Sales%20by%20Category.png)
 
 ---
 
